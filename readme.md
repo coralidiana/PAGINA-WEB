@@ -1,6 +1,8 @@
 # Laboratorio 3 de GIT
 
-Hola estimados estudientes!
+Hola estimados estudiantes!
+
+
 
 Este es el proyecto más épico que verán en sus vidas académicas. Así aprenderán a usar el Git, el GitHub y hasta hacer sus propios pull resquest sin llorar (bueno, esperemos 😅).
 
