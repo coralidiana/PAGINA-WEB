@@ -1,8 +1,8 @@
 # Laboratorio 3 de GIT
 
-Hola estimados estudientes!
+Hola estimados estudiantes!
 
-Este es el proyesto mas epico ke veran en sus bidas academikas. Aki aprenderan a usar el git, el github y hasta hacer sus propios pull resquest sin lorrar (bueno, esperemos 😅).
+Este es el proyecto mas epico ke veran en sus bidas academikas. Aki aprenderan a usar el git, el github y hasta hacer sus propios pull resquest sin lorrar (bueno, esperemos 😅).
 
 ## Instruccions:
 
