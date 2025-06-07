@@ -1,20 +1,22 @@
 # Laboratorio 3 de GIT
 
-Hola estimados estudientes!
+¡Hola estimados estudiantes!
 
-Este es el proyesto mas epico ke veran en sus bidas academikas. Aki aprenderan a usar el git, el github y hasta hacer sus propios pull resquest sin lorrar (bueno, esperemos 😅).
+Este es el proyecto más épico que verán en sus vidas académicas. Aquí 
+aprenderán a usar Git, GitHub y hasta hacer sus propios *pull requests* 
+sin llorar (bueno, esperemos 😅).
 
-## Instruccions:
+## Instrucciones:
 
-1. Forkea este repositoreo (sii, así se dise).
-2. Clona tu forkeo a tu computador.
-3. Has una rama con tu nombre y arregla las burradas ortograficas de este archivo.
-4. Aser un commit con tus cambios.
-5. Pushea al espacio (o mejor dicho a tu repo).
-6. Y manda un pull reqüest con confianza
+1. Haz *fork* de este repositorio (sí, así se dice).
+2. Clona tu *fork* a tu computador.
+3. Crea una rama con tu nombre y arregla las burradas ortográficas de este 
+archivo.
+4. Haz un *commit* con tus cambios.
+5. *Push* al espacio (o mejor dicho, a tu repo).
+6. Manda un *pull request* con confianza.
 
+## Agradecimientos
 
-## Agradesimientos
-
-A todos los cerebros brillantes ke ayudan a ke el git no explote 
+A todos los cerebros brillantes que ayudan a que Git no explote.
 
